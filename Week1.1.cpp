@@ -25,5 +25,5 @@ int main()
     int k;
     cin>>k;
     linear_search(arr,n,k);
-    return 0
+    return 0;
 }
