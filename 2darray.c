@@ -35,5 +35,5 @@ max=arr[i][j];
  printf("\n");
  }
  printf("sum = %d \ndsum = %d\nmax = %d",sum,dsum,max);
- return 0
+ return 0;
 } 
